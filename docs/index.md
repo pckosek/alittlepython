@@ -1,8 +1,8 @@
 # A Little Python
 
-*A short, conversational introduction to Python for creative and procedural work in games — written for students who already know how to program, and are meeting Python for the first time.*
+*A short, conversational introduction to Python for creative and procedural work — written for students who already know how to program, and who might be meeting Python for the first time.*
 
-This text is modeled on the incremental, question-and-answer structure of *The Little Schemer*: each idea is built through a small conversation, one question at a time, with concise **Laws** marking the principles worth carrying forward.
+This text is modeled on the incremental, question-and-answer structure that I found so valuable in *The Little Schemer*; each idea is built through a small conversation, one question at a time, with concise **Laws** marking the principles worth carrying forward.
 
 ## Chapters
 
@@ -23,5 +23,3 @@ This text is modeled on the incremental, question-and-answer structure of *The L
 15. [Procedural PIL](chapter-15.md)
 16. [Sound as a List of Samples](chapter-16.md)
 17. [Building Sound Effects](chapter-17.md)
-
-See the [editorial summary](editorial-summary.md) for notes on this revision.
